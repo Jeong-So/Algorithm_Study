@@ -1,0 +1,21 @@
+package minMaxProblem;
+
+public class MinMaxProblem {
+
+	public static void main(String[] args) {
+
+		int[] numbers = {10, 55, 23, 2, 79, 101, 16, 82, 30, 45};
+		
+		int min = numbers[0];
+		
+		System.out.println(numbers.length);
+		
+//		for (int i = 0 ; numbers.length ; i++ ) {
+//			if(min >= i) {
+//				
+//			}
+//		}
+
+	}
+
+}
